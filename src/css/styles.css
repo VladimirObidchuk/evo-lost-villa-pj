@@ -1,0 +1,19 @@
+/**
+  |============================
+  | include css partials with
+  | default @import url()
+  |============================
+*/
+/* Common styles */
+@import url('./reset.css');
+@import url('./base.css');
+@import url('./container.css');
+
+/* Sections style */
+@import url('./header.css');
+@import url('./hero.css');
+@import url('./desc.css');
+@import url('./faq.css');
+@import url('./reviews.css');
+@import url('./gallery.css');
+@import url('./footer.css');
